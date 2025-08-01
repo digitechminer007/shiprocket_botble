@@ -1,0 +1,14 @@
+{
+    "name": "botble/shiprocket",
+    "description": "Advanced Shiprocket plugin for Botble CMS",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Botble\\Shiprocket\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.1",
+        "seshac/laravel-shiprocket-api": "^2.1"
+    }
+}

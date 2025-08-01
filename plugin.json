@@ -1,0 +1,9 @@
+{
+	"name": "Shiprocket",
+	"namespace": "Botble\\Shiprocket\\",
+	"provider": "Botble\\Shiprocket\\Providers\\ShiprocketServiceProvider",
+	"author": "Digitech Miner",
+	"version": "1.2.4",
+	"description": "Advanced Shiprocket integration for Botble CMS with admin control, full API sync, dashboard, orders, wallet, etc.",
+	"required_plugins": [ "ecommerce" ]
+}
